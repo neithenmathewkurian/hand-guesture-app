@@ -1,0 +1,39 @@
+body
+{
+  color: plum;
+  background-color: rebeccapurple;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_handgusture_name
+{
+  color: black;
+}
+.handgusture_name
+{
+  font-size: 40px;
+}
+.handgusture
+{
+  font: size 48px;
+}
+.heading{
+  font-size:18px;
+  letter-spacing:10px ;
+  border-radius: 10;
+}
+label{
+  font-size:14px;
+  color:rgb(255,0,0);
+  background-color: rgb(139, 0, 109);
+  border-radius:10px;
+  padding:10px;
+}
